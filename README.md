@@ -4,4 +4,4 @@ O objetivo deste projeto é auxiliar os desenvolvedores de qualquer linguagem ut
 
 # Desenvolvimento
 O modelo do projeto foi criado utilizando a versão Gemini 1.5 Pro e utilizando o Google Colab.
-Os testes iniciais foram realizados utilizando o repositório do [SOS-RS](https://github.com/SOS-RS/frontend) mas é possível utilizar qualquer reposiório público como fonte de dados, sendo necessário somente substituir o link do repositório e também a extensão dos arquivos na etapa de **Preparação dos Dados**
+Os testes iniciais foram realizados utilizando o repositório do [SOS-RS](https://github.com/SOS-RS/frontend) mas é possível utilizar qualquer reposiório público como fonte de dados, sendo necessário somente substituir o link do repositório, a extensão dos arquivos e o contexto no system_instruction.
